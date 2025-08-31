@@ -1,0 +1,108 @@
+
+[
+  {
+    "id": 1,
+    "name": "Tyrannosaurus Rex",
+    "scientific_name": "Tyrannosaurus rex",
+    "description": "A large carnivorous dinosaur that is one of the most well-represented of the large theropods.",
+    "number_in_park": 2
+  },
+  {
+    "id": 2,
+    "name": "Velociraptor",
+    "scientific_name": "Velociraptor mongoliensis",
+    "description": "A genus of dromaeosaurid theropod dinosaur that lived approximately 75 to 71 million years ago during the latter part of the Cretaceous Period.",
+    "number_in_park": 8
+  },
+  {
+    "id": 3,
+    "name": "Dilophosaurus",
+    "scientific_name": "Dilophosaurus wetherilli",
+    "description": "A genus of theropod dinosaurs that lived in what is now North America during the Early Jurassic, about 193 million years ago.",
+    "number_in_park": 4
+  },
+  {
+    "id": 4,
+    "name": "Procompsognathus",
+    "scientific_name": "Procompsognathus triassicus",
+    "description": "A genus of coelophysid theropod dinosaur that lived in the Late Triassic period of what is now Germany.",
+    "number_in_park": 20
+  },
+  {
+    "id": 5,
+    "name": "Apatosaurus",
+    "scientific_name": "Apatosaurus excelsus",
+    "description": "A genus of herbivorous sauropod dinosaur that lived in North America during the Late Jurassic period.",
+    "number_in_park": 6
+  },
+  {
+    "id": 6,
+    "name": "Triceratops",
+    "scientific_name": "Triceratops horridus",
+    "description": "A genus of herbivorous ceratopsid dinosaur that first appeared during the late Maastrichtian stage of the late Cretaceous period, about 68 million years ago in what is now North America.",
+    "number_in_park": 3
+  },
+  {
+    "id": 7,
+    "name": "Allosaurus",
+    "scientific_name": "Allosaurus fragilis",
+    "description": "A genus of large carnivorous theropod dinosaur that lived 155 to 145 million years ago during the late Jurassic period.",
+    "number_in_park": 2
+  },
+  {
+    "id": 8,
+    "name": "Ankylosaurus",
+    "scientific_name": "Ankylosaurus magniventris",
+    "description": "A genus of armoured dinosaur. Its fossils have been found in geological formations dating to the very end of the Cretaceous Period, about 68–66 million years ago, in western North America, making it among the last of the non-avian dinosaurs.",
+    "number_in_park": 4
+  },
+  {
+    "id": 9,
+    "name": "Baryonyx",
+    "scientific_name": "Baryonyx walkeri",
+    "description": "A genus of theropod dinosaur which lived in the Barremian stage of the Early Cretaceous period, about 130–125 million years ago.",
+    "number_in_park": 2
+  },
+  {
+    "id": 10,
+    "name": "Brachiosaurus",
+    "scientific_name": "Brachiosaurus altithorax",
+    "description": "A genus of sauropod dinosaur that lived in North America during the Late Jurassic, about 154–153 million years ago.",
+    "number_in_park": 4
+  },
+  {
+    "id": 11,
+    "name": "Cearadactylus",
+    "scientific_name": "Cearadactylus atrox",
+    "description": "A genus of large pterosaur that lived in the Early Cretaceous period, about 112 million years ago.",
+    "number_in_park": 5
+  },
+  {
+    "id": 12,
+    "name": "Hadrosaurus",
+    "scientific_name": "Hadrosaurus foulkii",
+    "description": "A genus of hadrosaurid ornithopod dinosaurs that lived in North America during the Late Cretaceous Period.",
+    "number_in_park": 11
+  },
+  {
+    "id": 13,
+    "name": "Maiasaura",
+    "scientific_name": "Maiasaura peeblesorum",
+    "description": "A large herbivorous hadrosaurid dinosaur genus that lived in the area currently covered by the state of Montana in the Upper Cretaceous Period, about 76.7 million years ago.",
+    "number_in_park": 15
+  },
+  {
+    "id": 14,
+    "name": "Stegosaurus",
+    "scientific_name": "Stegosaurus stenops",
+    "description": "A genus of herbivorous, four-legged, armored dinosaur from the Late Jurassic, characterized by the distinctive kite-shaped plates along their back and a tail tipped with spikes.",
+    "number_in_park": 4
+  },
+  {
+    "id": 15,
+    "name": "Styracosaurus",
+    "scientific_name": "Styracosaurus albertensis",
+    "description": "A genus of herbivorous ceratopsian dinosaur from the Cretaceous Period, about 75.5 to 74.5 million years ago.",
+    "number_in_park": 6
+  }
+]
